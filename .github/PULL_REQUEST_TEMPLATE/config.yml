@@ -6,3 +6,5 @@ pull_request_templates:
   - name: ✨ 機能追加
     description: 新機能の追加に使うテンプレートです
     file: feature.md
+  - name: default
+    file: pull_request_template.md
