@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+pulls:
+  - name: 🐛 不具合修正用
+    description: バグ修正を行うためのテンプレート
+    file: bugfix.md
+  - name: ✨ 機能追加用
+    description: 新しい機能を追加するためのテンプレート
+    file: feature.md
