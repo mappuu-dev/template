@@ -1,8 +1,8 @@
 blank_issues_enabled: false
-pulls:
-  - name: 🐛 不具合修正用
-    description: バグ修正を行うためのテンプレート
+pull_request_templates:
+  - name: 🐛 不具合修正
+    description: バグ修正用のテンプレートです
     file: bugfix.md
-  - name: ✨ 機能追加用
-    description: 新しい機能を追加するためのテンプレート
+  - name: ✨ 機能追加
+    description: 新機能の追加に使うテンプレートです
     file: feature.md
